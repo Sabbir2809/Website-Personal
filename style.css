@@ -1,0 +1,69 @@
+/*----------Fonts Style----------*/
+body {
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+h1 {
+    font-size: 54px;
+}
+h2 {
+    font-size: 38px;
+}
+h3 {
+    font-size: 24px;
+}
+p {
+    color: #3E3E3E;
+}
+.light-Salmon {
+    color: #FF8367;
+}
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.another-half-width {
+    width: 25%;
+    float: left;
+    margin-left: 3%;
+    padding: 2%;
+
+}
+.half-width img {
+    width: 80%;
+}
+section {
+    height: 400px;
+    padding-bottom: 100px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 7px;
+    color: white;
+    font-weight: bold;
+
+}
+
+.single-experience {
+    box-shadow: 10px 10px 20px;
+    border-radius: 7px;
+    height: 85%;
+    background-color: white;
+
+}
+
+.lastest-working-area {
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#text-alin {
+    text-align: center;
+}
