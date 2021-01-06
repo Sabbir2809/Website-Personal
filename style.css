@@ -53,7 +53,7 @@ section {
 .single-experience {
     box-shadow: 10px 10px 20px;
     border-radius: 7px;
-    height: 85%;
+    height: 90%;
     background-color: white;
 
 }
@@ -66,4 +66,32 @@ section {
 
 #text-alin {
     text-align: center;
+}
+.work{
+    background-image: url(images/Group_33094_1.png);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.top-left{
+    text-align: center;
+    text-size-adjust:50px;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align-last: center;
+    
+}
+ul li{
+    float: left;
+    list-style-type: none;
+}
+ul li a{
+    color: black;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 12px 15px;
+    display: inline-block;
 }
